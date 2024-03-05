@@ -1,6 +1,7 @@
+use crate::core::prayertime::PrayerTime;
 
-struct Config {
-
+pub struct Config {
+    pub prayers: Vec<PrayerTime>
 }
 
 impl Config {

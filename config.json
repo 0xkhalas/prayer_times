@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Fajr",
+    "is_pm": false,
+    "hour": 4,
+    "minute": 54
+  },
+  {
+    "name": "Dhuhr",
+    "is_pm": true,
+    "hour": 12,
+    "minute": 2
+  },
+  {
+    "name": "Asr",
+    "is_pm": true,
+    "hour": 3,
+    "minute": 27
+  },
+  {
+    "name": "Maghrib",
+    "is_pm": true,
+    "hour": 5,
+    "minute": 58
+  },
+  {
+    "name": "Isha",
+    "is_pm": true,
+    "hour": 7,
+    "minute": 28
+  }
+]
